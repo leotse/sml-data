@@ -1,0 +1,19 @@
+{
+  "name": "sml-db",
+  "version": "0.0.1",
+  "description": "Downloads historical fundamental data to local mongodb from quandl",
+  "author": "Leo Tse",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:leotse/sml.git"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mongoose": "~4.0.1",
+    "request": "~2.55.0",
+    "async": "~0.9.0",
+    "quandl": "0.0.3",
+    "lodash": "~3.6.0",
+    "moment": "~2.9.0"
+  }
+}
